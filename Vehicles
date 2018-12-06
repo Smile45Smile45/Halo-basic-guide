@@ -1,8 +1,9 @@
 <html>
 <head>
-<title>Closed for repairs</title>
+<title>Repairing vehicles</title>
 </head>
 <body>
-<p>Closed for repairs</p>
+<p>Repairing vehicles</p>
+<p><a href="Index.html"> This is my link back to the home page </a></p>
 </body>
 </html>
